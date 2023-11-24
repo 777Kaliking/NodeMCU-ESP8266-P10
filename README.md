@@ -9,4 +9,3 @@ The drawback of this library (DMDESP) is that there is a slight flicker in the T
 
 The code file is saved in the .rar file format. I created a .rar file using Winrar V5.50, so to extract it, make sure you use the same version of Winrar that I use or the latest version or use the winrar extractor online.
 
-Sorry if my English is confusing, I use an online translator.
