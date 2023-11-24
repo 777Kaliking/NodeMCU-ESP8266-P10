@@ -9,7 +9,7 @@ The drawback of this library (DMDESP) is that there is a slight flicker in the T
 
 The code file is saved in the .rar file format. I created a .rar file using Winrar V5.50, so to extract it, make sure you use the same version of Winrar that I use or the latest version or use the winrar extractor online.
 
- <a href="https://youtube.com/playlist?list=PLKuQ-UWqAt3OseL7NHUupuKpr04o4ReUD" target="_blank"><img src="https://github.com/777Kaliking/NodeMCU-ESP8266-P10/blob/main/Installation.jpg" alt="Playlist Tutorial DMDESP" width="240" height="180" border="10" /></a>
+ <a href="https://github.com/777Kaliking" target="_blank"><img src="https://github.com/777Kaliking/NodeMCU-ESP8266-P10/blob/main/Installation.jpg" alt="Playlist Tutorial DMDESP" width="240" height="180" border="10" /></a>
 
 
 
