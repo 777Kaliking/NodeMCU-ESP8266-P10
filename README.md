@@ -8,9 +8,11 @@ Note :
 The drawback of this library (DMDESP) is that there is a slight flicker in the Text display that doesn't move (doesn't scroll). But in my opinion it's still good. Flicker does not occur on the scrolling text.
 
 The code file is saved in the .rar file format. I created a .rar file using Winrar V5.50, so to extract it, make sure you use the same version of Winrar that I use or the latest version or use the winrar extractor online.
+
 | Tutorial | Example |
 |----------|---------|
-| <a href="https://youtube.com/playlist?list=PLKuQ-UWqAt3OseL7NHUupuKpr04o4ReUD" target="_blank"><img src="https://i.ytimg.com/vi/W6BT-Ju3rFg/hqdefault.jpg" alt="Playlist Tutorial DMDESP" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=cDKsBYR1Nps" target="_bl
+| <a href="https://youtube.com/playlist?list=PLKuQ-UWqAt3OseL7NHUupuKpr04o4ReUD" target="_blank"><img src="https://i.ytimg.com/vi/W6BT-Ju3rFg/hqdefault.jpg" alt="Playlist Tutorial DMDESP" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=cDKsBYR1Nps" target="_blank"><img src="http://img.youtube.com/vi/cDKsBYR1Nps/0.jpg" alt="JWSP10 NodeMCU ESP8266" width="240" height="180" border="10" /></a> |
+
 
 
 ### Pin on DMD LED P10 Panel
